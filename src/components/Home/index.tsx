@@ -132,7 +132,7 @@ export default function Landing({ data }: HomeProps) {
                       Log In
                     </a>
                     <a
-                      href="https://discord.gg/plasmaroleplay"
+                      href="https://discord.gg/Anhd7Bg63U"
                       target="_blank"
                       className="btn btn-outline btn-no-fill"
                       rel="noreferrer"
@@ -156,7 +156,7 @@ export default function Landing({ data }: HomeProps) {
                   <a className="btn btn-fill text-white border-0">Log In</a>
                 </Link>
                 <a
-                  href="https://discord.gg/plasmaroleplay"
+                  href="https://discord.gg/Anhd7Bg63U"
                   target="_blank"
                   className="btn btn-outline btn-no-fill ms-3"
                   rel="noreferrer"
@@ -185,7 +185,7 @@ export default function Landing({ data }: HomeProps) {
                     </a>
                   </Link>
                   <a
-                    href="https://discord.gg/plasmaroleplay"
+                    href="https://discord.gg/Anhd7Bg63U"
                     target="_blank"
                     className="btn btn-outline"
                     rel="noreferrer"
@@ -369,7 +369,7 @@ export default function Landing({ data }: HomeProps) {
               <div className="col-lg-6 column" data-aos="fade-zoom-in">
                 <div className="d-flex align-items-center justify-content-center">
                   <iframe
-                    src="https://discord.com/widget?id=914691384345239592&theme=dark"
+                    src="https://discord.com/widget?id=1130010912821100614&theme=dark"
                     width="500"
                     height="500"
                     frameBorder="0"
@@ -807,7 +807,7 @@ export default function Landing({ data }: HomeProps) {
             <div className="mx-auto d-flex flex-column flex-lg-row align-items-center justify-content-lg-between justify-content-md-center justify-content-sm-center footer-info-space gap-4">
               <div className="d-flex title-font font-medium align-items-center gap-4">
                 <a
-                  href="https://facebook.com/groups/717712242429203/"
+                  href="https://instagram.com/plasmacity.rp/"
                   target={"_blank"}
                   rel="noreferrer"
                 >
@@ -871,7 +871,7 @@ export default function Landing({ data }: HomeProps) {
                   Copyright &copy; {new Date().getFullYear()} Plasma Community.
                   Developed by{" "}
                   <a
-                    href="https://instagram.com/lukmaan.24/"
+                    href="https://instagram.com/plasmacity.rp/"
                     rel="noreferrer"
                     target="_blank"
                     style={{ textDecoration: "none" }}
