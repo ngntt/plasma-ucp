@@ -1,6 +1,6 @@
 const changelog = {
-  version: "R:RP v1.3.3r2 Milestone",
-  date: "6 March 2022",
+  version: "P:RP v1.3.3r2 Milestone",
+  date: "20 Juni 2024",
   added: [
     {
       text: "New activity (Forager)",
