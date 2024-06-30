@@ -126,7 +126,7 @@ export default async function handler(
 
     const tokenExists = await isTokenExists(ID);
     if (tokenExists) {
-      await sendEmail(email, "RRP - Password Reset", html)
+      await sendEmail(email, "PC:RP - Password Reset", html)
         .then(() => {
           const updateToken: Promise<boolean> = updateRequestToken(ID, token);
 
@@ -162,7 +162,7 @@ export default async function handler(
           });
         });
     } else {
-      await sendEmail(email, "RRP - Password Reset", html)
+      await sendEmail(email, "PC:RP - Password Reset", html)
         .then(() => {
           const tokenInserted = insertToken(ID, token);
 
